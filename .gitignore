@@ -1,0 +1,15 @@
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+.venv/
+env/
+venv/
+.uv/
+
+# Fichiers macOS
+.DS_Store
+
+# Fichiers de logs
+*.log
